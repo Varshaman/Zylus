@@ -1,0 +1,27 @@
+.nav-main{
+  background-color:#091122;
+  align-items: end;
+  display: flex;
+  flex-wrap: nowrap;
+  align-content: center;
+  justify-content: center;
+}
+.navbar-nav .nav-bar-list .nav-item a {
+  color:white;
+}
+.sign-up , .login {
+  border-radius: 15px; 
+  width: 20rem;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.sign-up{
+  background-color: #091122;
+  border: 2px  rgba(130, 207, 217, 1) solid;
+}
+.login{
+  background-color: rgba(130, 207, 217, 1);
+}
+.zylus-logo{
+  height: 40px;
+}
